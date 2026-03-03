@@ -2,3 +2,4 @@ Comandi git_hub:
 git Push
 git Pull
 git Fetch
+git commit 
